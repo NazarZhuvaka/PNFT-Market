@@ -1,0 +1,17 @@
+body {
+    font-family: var(--ff);
+}
+
+p{
+    color: var(--Secondary-Color, #344054);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+}
+
+button{
+    cursor: pointer;
+}
